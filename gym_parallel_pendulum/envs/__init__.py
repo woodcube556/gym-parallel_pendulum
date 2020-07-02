@@ -1,0 +1,1 @@
+from gym_parallel_pendulum.envs.parallel_pendulum import ParallelPendulumEnv
